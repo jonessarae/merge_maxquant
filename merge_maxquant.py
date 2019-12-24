@@ -14,7 +14,7 @@ python merge_maxquant.py -m1 <path/to/file> -m2 <path/to/file> --prefix <string>
 Example:
 python merge_maxquant.py -m1 LM1C/proteinGroups.txt -m2 LM2C/proteinGroups.txt --prefix Mix12_Con
 
-Paramters:
+Parameters:
 Required:
 -m1: proteinGroups.txt file for Mix 1
 -m2: proteinGroups.txt file for Mix 2
