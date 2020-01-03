@@ -27,6 +27,7 @@ Parameters:
 Required:
 * -m1: proteinGroups.txt file for Mix 1
 * -m2: proteinGroups.txt file for Mix 2
+
 Optional:
 * --prefix: prefix for output file name
 
