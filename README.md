@@ -1,6 +1,7 @@
 # merge_maxquant
 
 Script to merge Mix 1 and Mix 2 *proteinGroups.txt* files generated from MaxQuant and outputs a new *proteinGroups.txt*.
+
 This should be only used for triple SILAC mass spec experiments.
 
 ## To install
